@@ -1,7 +1,7 @@
 👋 Hi, I’m Maksymilian Paradowski, Software Developer working in Grid Dynamics
 
 👀 I’m interested in dancing, meditation and I love walking in nature  
-🌱 I’m currently learning: Python
+🌱 I’m currently learning: Python  
 💞️ I'm looking to collaborate on interesting projects and contribute to open source projects!
 
 📫 Reach me at maksparadowski@gmail.com
